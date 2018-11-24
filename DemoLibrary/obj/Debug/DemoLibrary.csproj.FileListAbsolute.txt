@@ -1,0 +1,6 @@
+C:\Users\Developer-001\source\repos\TestAutofac\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Developer-001\source\repos\TestAutofac\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Developer-001\source\repos\TestAutofac\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Developer-001\source\repos\TestAutofac\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Developer-001\source\repos\TestAutofac\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Developer-001\source\repos\TestAutofac\DemoLibrary\obj\Debug\DemoLibrary.pdb

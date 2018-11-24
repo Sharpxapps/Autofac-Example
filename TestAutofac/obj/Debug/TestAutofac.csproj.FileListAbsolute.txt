@@ -1,0 +1,12 @@
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\TestAutofac.exe.config
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\TestAutofac.exe
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\TestAutofac.pdb
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\Autofac.dll
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\DemoLibrary.dll
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\DemoLibrary.pdb
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\bin\Debug\Autofac.xml
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\obj\Debug\TestAutofac.csprojAssemblyReference.cache
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\obj\Debug\TestAutofac.csproj.CoreCompileInputs.cache
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\obj\Debug\TestAutofac.csproj.CopyComplete
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\obj\Debug\TestAutofac.exe
+C:\Users\Developer-001\source\repos\TestAutofac\TestAutofac\obj\Debug\TestAutofac.pdb
