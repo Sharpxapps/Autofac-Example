@@ -26,9 +26,63 @@ edit autoexec.bat
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+ '''csharp
+     class Program
+    {
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+        static void Main(string[] args)
+        { 
+
+            ConsoleOutput co = new ConsoleOutput();
+            co.Write("test");
+
+            IOutput iout = co;
+            TodayWriter tw = new TodayWriter( co);
+            tw.WriteDate();
+
+ 
+            Console.ReadLine();
+
+
+        }
+
+
+    }
+
+    public interface IOutput
+    {
+        void Write(string content);
+    }
+
+    public class ConsoleOutput : IOutput
+    {
+        public void Write(string content)
+        {
+            Console.WriteLine(content);
+        }
+    }
+
+
+
+    public interface IDateWriter
+    {
+        void WriteDate();
+    }
+
+    public class TodayWriter : IDateWriter
+    {
+        private IOutput _output;
+        public TodayWriter(IOutput output)
+        {
+            this._output = output;
+        }
+
+        public void WriteDate()
+        {
+            this._output.Write(DateTime.Today.ToShortDateString());
+        }
+    }
+ '''
 
 ## Development setup
 
