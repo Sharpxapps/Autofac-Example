@@ -26,7 +26,7 @@ edit autoexec.bat
 
 ## Usage example
 
- '''csharp
+ '''java
      class Program
     {
 
