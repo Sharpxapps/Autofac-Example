@@ -26,7 +26,7 @@ edit autoexec.bat
 
 ## Usage example
 
- '''java
+ '''c#
      class Program
     {
 
